@@ -9,6 +9,6 @@ Datasets Used
 
 2. **HAM10000 Dataset**
    - **Description:** Includes images of skin lesions, filtered to focus on benign and melanoma classes for this project.
-   - **Usage:** Evaluation and additional testing.
+   - **Usage:** Evaluation and additional testing. Also for gender-specific performances
 
 ---
